@@ -57,7 +57,8 @@ Abaixo está o racional utilizado para estimar o esforço total desta entrega, c
    git clone https://github.com/daviqatestemaxprod-prog/teste-tecnico-dot.git
 
 2. Acesse a pasta do projeto:
-    cd teste-tecnico-dot
+   ```bash
+   cd teste-tecnico-dot
 
 3. Instale as dependências:
     npm install
