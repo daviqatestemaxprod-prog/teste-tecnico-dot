@@ -61,10 +61,13 @@ Abaixo está o racional utilizado para estimar o esforço total desta entrega, c
    cd teste-tecnico-dot
 
 3. Instale as dependências:
+   ```bash
     npm install
 
 4. Para abrir a Interface Gráfica do Cypress e acompanhar os testes visualmente:
+       ```bash
     npx cypress open
 
 5. Para executar todos os testes em background (Modo Headless), simulando a pipeline:
+       ```bash
     npx cypress run
